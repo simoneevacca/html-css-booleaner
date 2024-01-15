@@ -84,18 +84,17 @@ footer {
     font-size: 20px;
 }
 
-.foto1 {
-    background-image: url(img/monitor.jpg);
+.foto {
     background-size: cover;
     height: 300px;
     width: 300px;
     margin-top: 15px;;
 }
 
-.foto2 {
+.foto.monitor {
+    background-image: url(img/monitor.jpg);
+}
+
+.foto.graph {
     background-image: url(img/graph.jpg);
-    background-size: cover;
-    height: 300px;
-    width: 300px;
-    margin-top: 15px;;
 }
