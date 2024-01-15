@@ -36,3 +36,26 @@
 .importante {
     background-color: yellow;
 }
+
+table {
+    width: 1200px;
+    margin: 20px 0px 20px 0px;
+}
+
+.cella1{
+    width: 20%;
+    
+}
+
+.cella2 {
+    width: 20%;
+}
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.riga.blue {
+    background-color: #b1e5f2;
+}
