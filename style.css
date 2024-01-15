@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#logo {
+    height: 100px;
+}
+
+#intestazione{
+    background-image: url(img/pattern.png);
+    background-size: contain;
+    background-color: #4ea0ff;
+}
+
+.write_by {
+    color: grey;
+    font-weight: bold;
+}
+
+.link_boolean {
+    color: #36b1e7;
+}
+
+.date {
+    font-weight: bold;
+    font-size: 10px;
+    color: grey;
+
+}
