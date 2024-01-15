@@ -3,8 +3,17 @@
     margin: 0;
 }
 
+#container {
+    width: 1000px;
+    margin: auto;
+}
+
 #logo {
     height: 100px;
+}
+
+header {
+    margin-bottom: 20px;
 }
 
 #intestazione{
@@ -29,6 +38,18 @@
 
 }
 
+#foto {  
+    width: 100%;  
+}
+
+
+
+.foto_tim {
+    width: 49%;
+    height: 400px;   
+}
+
+
 .paragrafo {
     margin: 20px 0px 20px 0px;
 }
@@ -38,7 +59,7 @@
 }
 
 table {
-    width: 1200px;
+    width: 100%;
     margin: 20px 0px 20px 0px;
 }
 
