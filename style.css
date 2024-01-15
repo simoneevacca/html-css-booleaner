@@ -35,20 +35,16 @@ header {
     font-weight: bold;
     font-size: 10px;
     color: grey;
-
 }
 
 #foto {  
     width: 100%;  
 }
 
-
-
 .foto_tim {
-    width: 49%;
-    height: 400px;   
+    width:auto;
+    height: 350px;   
 }
-
 
 .paragrafo {
     margin: 20px 0px 20px 0px;
@@ -65,7 +61,6 @@ table {
 
 .cella1{
     width: 20%;
-    
 }
 
 .cella2 {
