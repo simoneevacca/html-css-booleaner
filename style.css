@@ -8,18 +8,20 @@
     margin: auto;
 }
 
-#logo {
-    height: 100px;
-}
-
-header {
-    margin-bottom: 20px;
-}
-
 #intestazione{
     background-image: url(img/pattern.png);
     background-size: contain;
     background-color: #4ea0ff;
+    height: 100px;
+}
+
+#logo {
+    height: 70px;
+    margin-top: 30px;
+}
+
+header {
+    margin-bottom: 20px;
 }
 
 .secondario {
@@ -79,6 +81,7 @@ thead {
 footer {
     margin-top: 30px;
     color: white;
+    font-size: 20px;
 }
 
 .foto1 {
